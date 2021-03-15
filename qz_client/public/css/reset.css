@@ -1,0 +1,138 @@
+html,
+body
+{
+    font-size: 100%;
+    background-color:rgba(233,229,217,0.6);
+}
+
+body {
+    line-height: 1;
+    overflow:auto;
+    overflow-x:hidden;
+    font: normal 100% Helvetica, Arial,sans-serif;
+}
+body::-webkit-scrollbar {/*滚动条整体样式*/
+    width: 0.5rem;     /*高宽分别对应横竖滚动条的尺寸*/
+    height: 0.25rem;
+    scrollbar-arrow-color:red;
+
+}
+body::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+    border-radius: 0.3125rem;
+    -webkit-box-shadow: inset 0 0 0.3125rem rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.2);
+    scrollbar-arrow-color:red;
+}
+body::-webkit-scrollbar-track {/*滚动条里面轨道*/
+    -webkit-box-shadow: inset 0 0 0.3125rem rgba(0,0,0,0.2);
+    border-radius: 0;
+    background: rgba(0,0,0,0.1);
+}
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: ”;
+    content: none;
+}
+
+
+/* remember to define focus styles! */
+
+:focus {
+    outline: 0;
+}
+
+
+/* remember to highlight inserts somehow! */
+
+ins {
+    text-decoration: none;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+
+/* tables still need ‘cellspacing=”0″‘ in the markup */
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/*包含以下四种的链接*/
+a {
+    text-decoration: none;
+}
+/*正常的未被访问过的链接*/
+a:link {
+    text-decoration: none;
+}
+/*已经访问过的链接*/
+a:visited {
+    text-decoration: none;
+}
+/*鼠标划过(停留)的链接*/
+a:hover {
+    text-decoration: none;
+}
+/* 正在点击的链接*/
+a:active {
+    text-decoration: none;
+}
+h5{
+    margin: 0;
+}
+.el-breadcrumb{
+	margin-bottom: 0.9375rem !important;
+	font-size: 0.75rem !important;
+}
+.el-card{
+	box-shadow: 0 0.0625rem 0.0625rem rgba(0, 0, 0, 0.15) !important;
+    margin-top: 0.625rem !important;
+}
+.el-table{
+	margin-top: 0.9375rem;
+	font-size: 0.75rem !important;
+}
+.el-table th.gutter{
+    display: table-cell!important;
+}
+.el-pagination{
+	margin-top: 0.9375rem;
+}
+.ql-container{
+    min-height: 18.75rem !important;
+    margin-bottom: 0.625rem !important;
+}
+[v-cloak]{
+    display: none;
+}
+.infinite-list::-webkit-scrollbar {/*滚动条整体样式*/
+    width: 0.5rem;     /*高宽分别对应横竖滚动条的尺寸*/
+    height: 0.25rem;
+    scrollbar-arrow-color:red;
+
+}
+.infinite-list::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+    border-radius: 0.3125rem;
+    -webkit-box-shadow: inset 0 0 0.3125rem rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.2);
+    scrollbar-arrow-color:red;
+}
+.infinite-list::-webkit-scrollbar-track {/*滚动条里面轨道*/
+    -webkit-box-shadow: inset 0 0 0.3125rem rgba(0,0,0,0.2);
+    border-radius: 0;
+    background: rgba(0,0,0,0.1);
+}

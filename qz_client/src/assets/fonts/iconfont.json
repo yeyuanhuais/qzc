@@ -1,0 +1,1346 @@
+{
+  "id": "1631190",
+  "name": "qz",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "141580",
+      "name": "compass",
+      "font_class": "compass",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "141581",
+      "name": "cloud3",
+      "font_class": "cloud3",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "141599",
+      "name": "desktop",
+      "font_class": "desktop",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "141610",
+      "name": "document",
+      "font_class": "document",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "141611",
+      "name": "documents",
+      "font_class": "documents",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "141615",
+      "name": "download2",
+      "font_class": "download2",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "141633",
+      "name": "expand2",
+      "font_class": "expand2",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "141639",
+      "name": "edit2",
+      "font_class": "edit2",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "141641",
+      "name": "envelope",
+      "font_class": "envelope",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "141665",
+      "name": "focus",
+      "font_class": "focus",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "141679",
+      "name": "flag3",
+      "font_class": "flag3",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "141685",
+      "name": "grid2",
+      "font_class": "grid2",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "141694",
+      "name": "hourglass",
+      "font_class": "hourglass",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "141703",
+      "name": "heart2",
+      "font_class": "heart2",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "141711",
+      "name": "key",
+      "font_class": "key",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "141738",
+      "name": "laptop",
+      "font_class": "laptop",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "141752",
+      "name": "layers2",
+      "font_class": "layers2",
+      "unicode": "e794",
+      "unicode_decimal": 59284
+    },
+    {
+      "icon_id": "141755",
+      "name": "lifesaver",
+      "font_class": "lifesaver",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "141756",
+      "name": "lightbulb",
+      "font_class": "lightbulb",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "141758",
+      "name": "linegraph",
+      "font_class": "linegraph",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "141780",
+      "name": "lock3",
+      "font_class": "lock3",
+      "unicode": "e7b0",
+      "unicode_decimal": 59312
+    },
+    {
+      "icon_id": "141798",
+      "name": "megaphone",
+      "font_class": "megaphone",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "141805",
+      "name": "mic2",
+      "font_class": "mic2",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "141809",
+      "name": "map2",
+      "font_class": "map2",
+      "unicode": "e7cd",
+      "unicode_decimal": 59341
+    },
+    {
+      "icon_id": "141810",
+      "name": "map-pin",
+      "font_class": "mappin",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "141849",
+      "name": "newspaper",
+      "font_class": "newspaper",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "141860",
+      "name": "paintbrush",
+      "font_class": "paintbrush",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "141865",
+      "name": "paperclip",
+      "font_class": "paperclip",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "141875",
+      "name": "phone2",
+      "font_class": "phone2",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "141878",
+      "name": "pencil",
+      "font_class": "pencil",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "141917",
+      "name": "picture",
+      "font_class": "picture",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "141919",
+      "name": "pictures",
+      "font_class": "pictures",
+      "unicode": "e83b",
+      "unicode_decimal": 59451
+    },
+    {
+      "icon_id": "141920",
+      "name": "piechart",
+      "font_class": "piechart",
+      "unicode": "e83c",
+      "unicode_decimal": 59452
+    },
+    {
+      "icon_id": "141923",
+      "name": "profile-female",
+      "font_class": "profilefemale",
+      "unicode": "e83f",
+      "unicode_decimal": 59455
+    },
+    {
+      "icon_id": "141924",
+      "name": "profile-male",
+      "font_class": "profilemale",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "141926",
+      "name": "puzzle",
+      "font_class": "puzzle",
+      "unicode": "e842",
+      "unicode_decimal": 59458
+    },
+    {
+      "icon_id": "141936",
+      "name": "presentation",
+      "font_class": "presentation",
+      "unicode": "e84c",
+      "unicode_decimal": 59468
+    },
+    {
+      "icon_id": "141937",
+      "name": "pricetags",
+      "font_class": "pricetags",
+      "unicode": "e84d",
+      "unicode_decimal": 59469
+    },
+    {
+      "icon_id": "141940",
+      "name": "printer2",
+      "font_class": "printer2",
+      "unicode": "e850",
+      "unicode_decimal": 59472
+    },
+    {
+      "icon_id": "141942",
+      "name": "refresh2",
+      "font_class": "refresh2",
+      "unicode": "e852",
+      "unicode_decimal": 59474
+    },
+    {
+      "icon_id": "141951",
+      "name": "quote",
+      "font_class": "quote",
+      "unicode": "e85b",
+      "unicode_decimal": 59483
+    },
+    {
+      "icon_id": "141956",
+      "name": "recycle",
+      "font_class": "recycle",
+      "unicode": "e860",
+      "unicode_decimal": 59488
+    },
+    {
+      "icon_id": "141961",
+      "name": "ribbon2",
+      "font_class": "ribbon2",
+      "unicode": "e865",
+      "unicode_decimal": 59493
+    },
+    {
+      "icon_id": "141966",
+      "name": "scissors",
+      "font_class": "scissors",
+      "unicode": "e86a",
+      "unicode_decimal": 59498
+    },
+    {
+      "icon_id": "141967",
+      "name": "scope",
+      "font_class": "scope",
+      "unicode": "e86b",
+      "unicode_decimal": 59499
+    },
+    {
+      "icon_id": "141993",
+      "name": "search3",
+      "font_class": "search3",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "142000",
+      "name": "shield",
+      "font_class": "shield",
+      "unicode": "e88c",
+      "unicode_decimal": 59532
+    },
+    {
+      "icon_id": "142018",
+      "name": "speedometer",
+      "font_class": "speedometer",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "142038",
+      "name": "strategy",
+      "font_class": "strategy",
+      "unicode": "e8b2",
+      "unicode_decimal": 59570
+    },
+    {
+      "icon_id": "142039",
+      "name": "streetsign",
+      "font_class": "streetsign",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "142052",
+      "name": "tablet",
+      "font_class": "tablet",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "142057",
+      "name": "target2",
+      "font_class": "target2",
+      "unicode": "e8c5",
+      "unicode_decimal": 59589
+    },
+    {
+      "icon_id": "142069",
+      "name": "toolbox",
+      "font_class": "toolbox",
+      "unicode": "e8d1",
+      "unicode_decimal": 59601
+    },
+    {
+      "icon_id": "142070",
+      "name": "tools",
+      "font_class": "tools",
+      "unicode": "e8d2",
+      "unicode_decimal": 59602
+    },
+    {
+      "icon_id": "142071",
+      "name": "tools-2",
+      "font_class": "tools2",
+      "unicode": "e8d3",
+      "unicode_decimal": 59603
+    },
+    {
+      "icon_id": "142076",
+      "name": "telescope",
+      "font_class": "telescope",
+      "unicode": "e8d8",
+      "unicode_decimal": 59608
+    },
+    {
+      "icon_id": "142090",
+      "name": "upload2",
+      "font_class": "upload2",
+      "unicode": "e8e6",
+      "unicode_decimal": 59622
+    },
+    {
+      "icon_id": "142097",
+      "name": "trophy",
+      "font_class": "trophy",
+      "unicode": "e8ed",
+      "unicode_decimal": 59629
+    },
+    {
+      "icon_id": "142112",
+      "name": "video2",
+      "font_class": "video2",
+      "unicode": "e8fc",
+      "unicode_decimal": 59644
+    },
+    {
+      "icon_id": "249320",
+      "name": "bankcard",
+      "font_class": "bankcard",
+      "unicode": "e9a6",
+      "unicode_decimal": 59814
+    },
+    {
+      "icon_id": "249347",
+      "name": "idcard",
+      "font_class": "idcard",
+      "unicode": "e9a7",
+      "unicode_decimal": 59815
+    },
+    {
+      "icon_id": "249404",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e9a9",
+      "unicode_decimal": 59817
+    },
+    {
+      "icon_id": "141338",
+      "name": "185029 - ipod streamline",
+      "font_class": "185029ipodstreamline",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "141339",
+      "name": "185030 - cook pan pot streamline",
+      "font_class": "185030cookpanpotstreamline",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "141340",
+      "name": "185031 - shoes snickers streamline",
+      "font_class": "185031shoessnickersstreamline",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "141341",
+      "name": "185032 - ipad streamline",
+      "font_class": "185032ipadstreamline",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "141342",
+      "name": "185033 - ipod music streamline",
+      "font_class": "185033ipodmusicstreamline",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "141343",
+      "name": "185034 - ipod mini music streamline",
+      "font_class": "185034ipodminimusicstreamline",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "141344",
+      "name": "185035 - computer streamline",
+      "font_class": "185035computerstreamline",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "141345",
+      "name": "185036 - remote control streamline",
+      "font_class": "185036remotecontrolstreamline",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "141346",
+      "name": "185037 - browser streamline window",
+      "font_class": "185037browserstreamlinewindow",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "141347",
+      "name": "185020 - macintosh",
+      "font_class": "185020macintosh",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "141348",
+      "name": "185021 - bomb bug",
+      "font_class": "185021bombbug",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "141349",
+      "name": "185022 - computer macintosh vintage",
+      "font_class": "185022computermacintoshvintage",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "141350",
+      "name": "185023 - computer imac",
+      "font_class": "185023computerimac",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "141351",
+      "name": "185024 - computer imac",
+      "font_class": "185024computerimac",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "141352",
+      "name": "185025 - ibook laptop",
+      "font_class": "185025ibooklaptop",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "141353",
+      "name": "185026 - laptop macbook streamline",
+      "font_class": "185026laptopmacbookstreamline",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "141354",
+      "name": "185027 - computer network streamline",
+      "font_class": "185027computernetworkstreamline",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "141355",
+      "name": "185028 - iphone streamline",
+      "font_class": "185028iphonestreamline",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "141356",
+      "name": "185047 - pen streamline",
+      "font_class": "185047penstreamline",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "141357",
+      "name": "185048 - pen streamline",
+      "font_class": "185048penstreamline",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "141358",
+      "name": "185049 - design pencil rule streamline",
+      "font_class": "185049designpencilrulestreamline",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "141359",
+      "name": "185050 - eye dropper streamline",
+      "font_class": "185050eyedropperstreamline",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "141360",
+      "name": "185051 - crop streamline",
+      "font_class": "185051cropstreamline",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "141361",
+      "name": "185052 - paint bucket streamline",
+      "font_class": "185052paintbucketstreamline",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "141362",
+      "name": "185053 - brush paint streamline",
+      "font_class": "185053brushpaintstreamline",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "141363",
+      "name": "185054 - painting roll streamline",
+      "font_class": "185054paintingrollstreamline",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "141364",
+      "name": "185055 - painting pallet streamline",
+      "font_class": "185055paintingpalletstreamline",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "141365",
+      "name": "185038 - home house streamline",
+      "font_class": "185038homehousestreamline",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "141366",
+      "name": "185039 - earth globe streamline",
+      "font_class": "185039earthglobestreamline",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "141367",
+      "name": "185040 - map pin streamline",
+      "font_class": "185040mappinstreamline",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "141368",
+      "name": "185041 - arrow streamline target",
+      "font_class": "185041arrowstreamlinetarget",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "141369",
+      "name": "185042 - edit modify streamline",
+      "font_class": "185042editmodifystreamline",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "141370",
+      "name": "185043 - ink pen streamline",
+      "font_class": "185043inkpenstreamline",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "141371",
+      "name": "185044 - pen streamline",
+      "font_class": "185044penstreamline",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "141372",
+      "name": "185045 - pen streamline",
+      "font_class": "185045penstreamline",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "141373",
+      "name": "185046 - design graphic tablet streamline tablet",
+      "font_class": "185046designgraphictabletstreamlinetablet",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "141374",
+      "name": "185056 - stamp streamline",
+      "font_class": "185056stampstreamline",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "141375",
+      "name": "185057 - magic magic wand streamline",
+      "font_class": "185057magicmagicwandstreamline",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "141376",
+      "name": "185058 - grid lines streamline",
+      "font_class": "185058gridlinesstreamline",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "141377",
+      "name": "185059 - handle streamline vector",
+      "font_class": "185059handlestreamlinevector",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "141378",
+      "name": "185060 - magnet streamline",
+      "font_class": "185060magnetstreamline",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "141379",
+      "name": "185061 - photo pictures streamline",
+      "font_class": "185061photopicturesstreamline",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "141380",
+      "name": "185062 - camera photo streamline",
+      "font_class": "185062cameraphotostreamline",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "141381",
+      "name": "185063 - camera photo polaroid streamline",
+      "font_class": "185063cameraphotopolaroidstreamline",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "141382",
+      "name": "185064 - picture streamline",
+      "font_class": "185064picturestreamline",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "141383",
+      "name": "185065 - frame picture streamline",
+      "font_class": "185065framepicturestreamline",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "141384",
+      "name": "185066 - picture streamline",
+      "font_class": "185066picturestreamline",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "141385",
+      "name": "185067 - camera streamline video",
+      "font_class": "185067camerastreamlinevideo",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "141386",
+      "name": "185068 - music note streamline",
+      "font_class": "185068musicnotestreamline",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "141387",
+      "name": "185069 - headset sound streamline",
+      "font_class": "185069headsetsoundstreamline",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "141388",
+      "name": "185070 - micro record streamline",
+      "font_class": "185070microrecordstreamline",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "141389",
+      "name": "185071 - music speaker streamline",
+      "font_class": "185071musicspeakerstreamline",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "141390",
+      "name": "185072 - book read streamline",
+      "font_class": "185072bookreadstreamline",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "141391",
+      "name": "185073 - book dowload streamline",
+      "font_class": "185073bookdowloadstreamline",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "141392",
+      "name": "185083 - like love streamline",
+      "font_class": "185083likelovestreamline",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "141393",
+      "name": "185084 - crown king streamline",
+      "font_class": "185084crownkingstreamline",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "141394",
+      "name": "185085 - happy smiley streamline",
+      "font_class": "185085happysmileystreamline",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "141395",
+      "name": "185086 - map streamline user",
+      "font_class": "185086mapstreamlineuser",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "141396",
+      "name": "185087 - link streamline",
+      "font_class": "185087linkstreamline",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "141397",
+      "name": "185088 - lock locker streamline",
+      "font_class": "185088locklockerstreamline",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "141398",
+      "name": "185089 - locker streamline unlock",
+      "font_class": "185089lockerstreamlineunlock",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "141399",
+      "name": "185090 - delete garbage streamline",
+      "font_class": "185090deletegarbagestreamline",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "141400",
+      "name": "185091 - danger death delete destroy skull streamline",
+      "font_class": "185091dangerdeathdeletedestroyskullstreamline",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "141401",
+      "name": "185074 - notebook streamline",
+      "font_class": "185074notebookstreamline",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "141402",
+      "name": "185075 - envellope mail streamline",
+      "font_class": "185075envellopemailstreamline",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "141403",
+      "name": "185076 - streamline suitcase travel",
+      "font_class": "185076streamlinesuitcasetravel",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "141404",
+      "name": "185077 - first aid medecine shield streamline",
+      "font_class": "185077firstaidmedecineshieldstreamline",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "141405",
+      "name": "185078 - email mail streamline",
+      "font_class": "185078emailmailstreamline",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "141406",
+      "name": "185079 - bubble comment streamline talk",
+      "font_class": "185079bubblecommentstreamlinetalk",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "141407",
+      "name": "185080 - bubble love streamline talk",
+      "font_class": "185080bubblelovestreamlinetalk",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "141408",
+      "name": "185081 - speech streamline talk user",
+      "font_class": "185081speechstreamlinetalkuser",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "141409",
+      "name": "185082 - man people streamline user",
+      "font_class": "185082manpeoplestreamlineuser",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "141410",
+      "name": "185101 - caddie shopping streamline",
+      "font_class": "185101caddieshoppingstreamline",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "141411",
+      "name": "185102 - receipt shopping streamline",
+      "font_class": "185102receiptshoppingstreamline",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "141412",
+      "name": "185103 - bag shopping streamline",
+      "font_class": "185103bagshoppingstreamline",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "141413",
+      "name": "185104 - streamline umbrella weather",
+      "font_class": "185104streamlineumbrellaweather",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "141414",
+      "name": "185105 - drug medecine streamline syringue",
+      "font_class": "185105drugmedecinestreamlinesyringue",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "141415",
+      "name": "185106 - armchair chair streamline",
+      "font_class": "185106armchairchairstreamline",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "141416",
+      "name": "185107 - backpack streamline trekking",
+      "font_class": "185107backpackstreamlinetrekking",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "141417",
+      "name": "185108 - chaplin hat movie streamline",
+      "font_class": "185108chaplinhatmoviestreamline",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "141418",
+      "name": "185109 - cocktail mojito streamline",
+      "font_class": "185109cocktailmojitostreamline",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "141419",
+      "name": "185092 - clock streamline time",
+      "font_class": "185092clockstreamlinetime",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "141420",
+      "name": "185093 - dashboard speed streamline",
+      "font_class": "185093dashboardspeedstreamline",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "141421",
+      "name": "185094 - settings streamline",
+      "font_class": "185094settingsstreamline",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "141422",
+      "name": "185095 - settings streamline",
+      "font_class": "185095settingsstreamline",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "141423",
+      "name": "185096 - settings streamline",
+      "font_class": "185096settingsstreamline",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "141424",
+      "name": "185097 - database streamline",
+      "font_class": "185097databasestreamline",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "141425",
+      "name": "185098 - streamline sync",
+      "font_class": "185098streamlinesync",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "141426",
+      "name": "185099 - factory lift streamline warehouse",
+      "font_class": "185099factoryliftstreamlinewarehouse",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "141427",
+      "name": "185100 - caddie shop shopping streamline",
+      "font_class": "185100caddieshopshoppingstreamline",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "141428",
+      "name": "185110 - diving leisure sea sport streamline",
+      "font_class": "185110divingleisureseasportstreamline",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "141429",
+      "name": "185111 - monocle mustache streamline",
+      "font_class": "185111monoclemustachestreamline",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "141430",
+      "name": "185112 - barista coffee espresso streamline",
+      "font_class": "185112baristacoffeeespressostreamline",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "141431",
+      "name": "185113 - coffee streamline",
+      "font_class": "185113coffeestreamline",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "141432",
+      "name": "185114 - chef food restaurant streamline",
+      "font_class": "185114cheffoodrestaurantstreamline",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "141433",
+      "name": "185115 - barbecue eat food streamline",
+      "font_class": "185115barbecueeatfoodstreamline",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "141434",
+      "name": "185116 - eat food hotdog streamline",
+      "font_class": "185116eatfoodhotdogstreamline",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "141435",
+      "name": "185117 - food ice cream streamline",
+      "font_class": "185117foodicecreamstreamline",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "141436",
+      "name": "185118 - japan streamline tea",
+      "font_class": "185118japanstreamlinetea",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "141437",
+      "name": "185119 - eat food fork knife streamline",
+      "font_class": "185119eatfoodforkknifestreamline",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "141445",
+      "name": "adjustments",
+      "font_class": "adjustments",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "141460",
+      "name": "alarmclock",
+      "font_class": "alarmclock",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "141468",
+      "name": "anchor",
+      "font_class": "anchor",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "141469",
+      "name": "anchor2",
+      "font_class": "anchor2",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "141472",
+      "name": "aperture",
+      "font_class": "aperture",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "141484",
+      "name": "attachment2",
+      "font_class": "attachment2",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "141503",
+      "name": "book-open",
+      "font_class": "bookopen",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "141511",
+      "name": "bargraph",
+      "font_class": "bargraph",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "141512",
+      "name": "basket",
+      "font_class": "basket",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "141514",
+      "name": "browser",
+      "font_class": "browser",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "141521",
+      "name": "calendar",
+      "font_class": "calendar",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "141524",
+      "name": "briefcase2",
+      "font_class": "briefcase2",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "141534",
+      "name": "caution",
+      "font_class": "caution",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "141538",
+      "name": "chat2",
+      "font_class": "chat2",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "141546",
+      "name": "camera3",
+      "font_class": "camera3",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "141555",
+      "name": "clipboard2",
+      "font_class": "clipboard2",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "141557",
+      "name": "clock2",
+      "font_class": "clock2",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "141564",
+      "name": "circle-compass",
+      "font_class": "circlecompass",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "5460648",
+      "name": "民俗民风",
+      "font_class": "minsu",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "12973513",
+      "name": "戏曲",
+      "font_class": "xiqu",
+      "unicode": "e915",
+      "unicode_decimal": 59669
+    },
+    {
+      "icon_id": "250414",
+      "name": "古镇民俗",
+      "font_class": "guzhenminsu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1804504",
+      "name": "泉州",
+      "font_class": "quanzhou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "3570197",
+      "name": "方言小品",
+      "font_class": "fangyan",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "3758266",
+      "name": "建筑",
+      "font_class": "jianzhu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "4860694",
+      "name": "概况",
+      "font_class": "gaikuang1",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "7145973",
+      "name": "宗教文化",
+      "font_class": "zongjiaowenhua",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "7537879",
+      "name": "ST建筑",
+      "font_class": "jianzhu1",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "12944210",
+      "name": "游记",
+      "font_class": "youji",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "9191734",
+      "name": "概况 分层",
+      "font_class": "gaikuangfenceng",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
